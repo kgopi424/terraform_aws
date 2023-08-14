@@ -1,4 +1,4 @@
 instance_type = "t2.micro"
-key_name = "backstagegopi"
-private_subnet_id = "subnet-0b90ebc1333e2d108"
-ami = "ami-0261755bbcb8c4a84"
+key_name = "Abhishek"
+private_subnet_id = "subnet-061fc6fd661f7dc5b"
+ami = "ami-053b0d53c279acc90"
